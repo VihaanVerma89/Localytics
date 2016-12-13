@@ -10,7 +10,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.localytics.android.sample.fcm"
+        applicationId "com.localytics.android.sample.fcm.vihaan"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
