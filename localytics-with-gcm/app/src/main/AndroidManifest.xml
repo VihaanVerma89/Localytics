@@ -21,7 +21,7 @@
 
         <meta-data
             android:name="LOCALYTICS_APP_KEY"
-            android:value="YOUR-LOCALYTICS-APP-KEY" />
+            android:value="0223715d4a9028045229c10-322869d2-c1de-11e6-6d36-0027531074ea" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
@@ -29,7 +29,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
             <intent-filter>
-                <data android:scheme="ampYOUR-LOCALYTICS-APP-KEY" />
+                <data android:scheme="amp0223715d4a9028045229c10-322869d2-c1de-11e6-6d36-0027531074ea" />
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />

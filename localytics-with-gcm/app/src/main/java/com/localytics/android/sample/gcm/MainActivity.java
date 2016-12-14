@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Localytics.registerPush("YOUR_SENDER_ID");
+        Localytics.registerPush("227995530357");
     }
 
     @Override

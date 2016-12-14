@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "227995530357",
+    "firebase_url": "https://sample-apps-f3574.firebaseio.com",
+    "project_id": "sample-apps-f3574",
+    "storage_bucket": "sample-apps-f3574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227995530357:android:1f691e10fe96d2b2",
+        "android_client_info": {
+          "package_name": "com.localytics.android.sample.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227995530357-i6nl9pogndeesoopvad65q28da2dja67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWymK_VLdq7Yx9IMZorE6HVgzgXHcKm6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227995530357:android:9027f63f7c647d2f",
+        "android_client_info": {
+          "package_name": "com.localytics.android.sample.fcm.vihaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227995530357-i6nl9pogndeesoopvad65q28da2dja67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWymK_VLdq7Yx9IMZorE6HVgzgXHcKm6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227995530357:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227995530357-i6nl9pogndeesoopvad65q28da2dja67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWymK_VLdq7Yx9IMZorE6HVgzgXHcKm6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227995530357:android:82ed0daa770870da",
+        "android_client_info": {
+          "package_name": "com.localytics.android.sample.gcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227995530357-i6nl9pogndeesoopvad65q28da2dja67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWymK_VLdq7Yx9IMZorE6HVgzgXHcKm6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
