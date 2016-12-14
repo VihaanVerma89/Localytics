@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
     <uses-permission android:name="com.localytics.android.sample.richpush.permission.C2D_MESSAGE" />
 
     <permission
@@ -24,7 +25,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
             <intent-filter>
-                <data android:scheme="ampYOUR-LOCALYTICS-APP-KEY" />
+                <data android:scheme="ampef4f3f90f3ec10587bf612e-508b7374-c1e8-11e6-6d36-0027531074ea" />
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
@@ -73,7 +74,7 @@
 
         <meta-data
             android:name="LOCALYTICS_APP_KEY"
-            android:value="YOUR-LOCALYTICS-APP-KEY" />
+            android:value="ef4f3f90f3ec10587bf612e-508b7374-c1e8-11e6-6d36-0027531074ea" />
 
     </application>
 
