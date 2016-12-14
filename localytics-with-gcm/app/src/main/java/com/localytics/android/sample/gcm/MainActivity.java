@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Localytics.registerPush("227995530357");
+        Localytics.registerPush("360439314257");
     }
 
     @Override
